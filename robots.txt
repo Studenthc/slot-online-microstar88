@@ -14,4 +14,4 @@ Sitemap: https://freesprunki.com/sitemap.xml
 Crawl-delay: 1
 
 # IndexNow
-IndexNow: 1234567890abcdefghijklmnopqrstuvasasdsdklk.txt
+IndexNow: 1234567890abcdefghijklmnopqrstuvasaweuiweuiwuei.txt
