@@ -2,16 +2,16 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /private/
+Disallow: /game.html
 
 # Important pages
 Allow: /index.html
-Allow: /game.html
 
 # Sitemaps
-Sitemap: https://freesprunki.com/sitemap.xml
+Sitemap: https://freeincrediboxsprunki.org/sitemap.xml
 
 # Crawl-delay
-Crawl-delay: 1
+Crawl-delay: 2
 
 # IndexNow
-IndexNow: 1234567890abcdefghijklmnopqrstuvasaweuiweuiwuei.txt
+IndexNow: 1234567890abcdefghijklmnopqrstuvasawereioeir.txt
