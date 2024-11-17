@@ -2,6 +2,9 @@
 
 Welcome to Slot Online Microstar88 - Your Premier Online Casino Gaming Destination at https://slotonlinemicrostar88.top/
 
+## Repository
+GitHub: [https://github.com/Studenthc/slot-online-microstar88](https://github.com/Studenthc/slot-online-microstar88)
+
 ## About Us
 Slot Online Microstar88 offers a premium online gaming experience with a vast selection of slot games, secure payment options, and 24/7 customer support. Our platform is designed to provide players with the best possible gaming environment.
 
