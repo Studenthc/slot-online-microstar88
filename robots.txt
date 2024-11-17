@@ -8,7 +8,7 @@ Disallow: /game.html
 Allow: /index.html
 
 # Sitemaps
-Sitemap: https://freeincrediboxsprunki.org/sitemap.xml
+Sitemap: https://slotonlinemicrostar88.top//sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 2
